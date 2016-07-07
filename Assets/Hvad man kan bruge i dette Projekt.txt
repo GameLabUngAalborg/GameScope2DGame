@@ -1,0 +1,7 @@
+Meningen med projektet er at det giver en uerfaren bruger mulighed for at smide nogle prefabs ind så de hurtigt får en effekt og kan level designe med dem. 
+
+Dette er en simple platformer der bruger Unity's 2D platformer robot som spiller.
+
+Der er importeret sprites fra Kenneys assets, som kan bruges til at opbygge banen. 
+Følgende prefabs er lavet:
+
