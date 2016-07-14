@@ -5,3 +5,21 @@ Dette er en simple platformer der bruger Unity's 2D platformer robot som spiller
 Der er importeret sprites fra Kenneys assets, som kan bruges til at opbygge banen. 
 Følgende prefabs er lavet:
 
+Level:
+Prefabs med colliders sat korrekt med textures.
+
+
+Hjælp:
+KillZone
+RestartKnap
+Health
+CoinPickUp
+Score
+Powerup (Større hop, hurtigere spiller)
+HealthGUI
+Goal
+En modstander der går frem og tilbage, kan hoppes på. 
+
+
+
+
